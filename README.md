@@ -31,7 +31,7 @@ An example of its use can be found in ```Counting_Example.ipynb```.
 
 ### Experiments
 
-For reproducibility purposes, the full code for the experiment section will be release on *December 29th* (in agreement with the creators of the pipeline).
+For reproducibility purposes, the full code for the experiment section is located in the ```code``` folder (released in agreement with the pipeline creators). See the README in ```code/pvg-pipeline/``` for a detailed description of usage.
 
 
 

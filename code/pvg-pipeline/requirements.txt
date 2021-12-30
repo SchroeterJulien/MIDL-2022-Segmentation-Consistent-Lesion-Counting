@@ -1,0 +1,10 @@
+# General
+comet-ml==3.12.0
+
+# Computation
+numpy==1.20.3
+scipy==1.6.3
+torch==1.8.1  # specify cuda version if necessary
+torchvision==0.9.1  # specify cuda version if necessary
+pytorch-ignite==0.4.4
+kornia==0.5.3
